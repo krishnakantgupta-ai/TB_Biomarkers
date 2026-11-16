@@ -1,0 +1,13 @@
+country,label,hiv_status,samples
+Malawi,LTBI,HIV negative,35
+Malawi,LTBI,HIV positive,36
+Malawi,OD,HIV negative,34
+Malawi,OD,HIV positive,30
+Malawi,TB,HIV negative,51
+Malawi,TB,HIV positive,51
+South Africa,LTBI,HIV negative,48
+South Africa,LTBI,HIV positive,48
+South Africa,OD,HIV negative,49
+South Africa,OD,HIV positive,62
+South Africa,TB,HIV negative,46
+South Africa,TB,HIV positive,47
