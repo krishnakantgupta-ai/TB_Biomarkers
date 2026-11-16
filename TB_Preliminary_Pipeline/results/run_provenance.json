@@ -1,0 +1,29 @@
+{
+  "arguments": {
+    "work": "tb_work",
+    "command": "analyze",
+    "development_series": "GSE37250",
+    "test_series": "GSE37250",
+    "test_country": "Malawi",
+    "controls": "OD",
+    "genes": 500,
+    "panel_genes": 8,
+    "epochs": 200,
+    "seed": 42,
+    "bootstrap": 1000,
+    "target_sensitivity": 0.9,
+    "jobs": 1,
+    "skip_neural": false,
+    "func": "<function analyze at 0x1569dfc40>"
+  },
+  "versions": {
+    "python": "3.12.16 (main, Nov 16 2026, 06:07:27) [Clang 14.0.3 (clang-1403.0.22.14.1)]",
+    "numpy": "2.5.5",
+    "pandas": "2.3.3",
+    "scipy": "1.18.1",
+    "sklearn": "1.8.0"
+  },
+  "manifest_sha256": "e9d1c177fb1db0cf1dabc7a1618773f9e35737e303f626cdd284ed72cd903798",
+  "expression_sha256": "9cb09775f8f57e2223a9b18b5eb2b9fb6123de5c66c968733a0c2a4f9cec1f7f",
+  "warning": "Exploratory public-data pilot; no clinical/qPCR validation. Published normalization can include held-out country samples. No inflammation-aware auxiliary task implemented; cohort balancing is an ablation only."
+}

@@ -1,0 +1,13 @@
+partition,series,country,label,hiv_status,n
+heldout_test,GSE37250,Malawi,OD,HIV negative,34
+heldout_test,GSE37250,Malawi,OD,HIV positive,30
+heldout_test,GSE37250,Malawi,TB,HIV negative,51
+heldout_test,GSE37250,Malawi,TB,HIV positive,51
+threshold_calibration,GSE37250,South Africa,OD,HIV negative,11
+threshold_calibration,GSE37250,South Africa,OD,HIV positive,11
+threshold_calibration,GSE37250,South Africa,TB,HIV negative,9
+threshold_calibration,GSE37250,South Africa,TB,HIV positive,10
+train,GSE37250,South Africa,OD,HIV negative,38
+train,GSE37250,South Africa,OD,HIV positive,51
+train,GSE37250,South Africa,TB,HIV negative,37
+train,GSE37250,South Africa,TB,HIV positive,37
